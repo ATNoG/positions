@@ -1,0 +1,14 @@
+https://www.it.pt/Positions/PostDoc/552	PostDoc Researcher	Network design and optimization	Research Grant (1616 euro/month)	22-Jan-21
+				
+https://www.it.pt/Positions/PostDoc/553	PostDoc Researcher	"Cloud Telco, 5G, Virtualization, Orchestration"	Research Grant (1616 euro/month)	22-Jan-21
+				
+https://www.it.pt/Positions/OtherResearchPosition/7225	PhD Student	Mobility in next generation networks	Research Grant (1.520 euro/month)	22-Jan-21
+				
+https://www.it.pt/Positions/OtherResearchPosition/7227	PhD Student	6G and heterogeneous networking and intelligent networks	Research Grant (1.074 euro/month)	22-Jan-21
+				
+https://www.it.pt/Positions/OtherResearchPosition/7230	Laboratory and infrastructure technician	"Networking, supporting technician for research lab and datacentre activities"	"Working contract, range 998.50-1153.44 euro/month (14 months)"	11-Feb-21
+				
+https://www.it.pt/Positions/OtherResearchPosition/7229	Infrastructure Engineer	"Networking, datacentre"	"Working contract, 1618,26 euro/month (14 months)"	11-Feb-21
+				
+https://www.it.pt/Positions/PostDoc/554	Senior Researcher	Learning Transfer and Federated Machine Learning for next generation networks	"Working Contract, 2,134.7 euro/month (14 months)"	11-Feb-21
+				
