@@ -1,12 +1,16 @@
-https://www.it.pt/Positions/OtherResearchPosition/7284	Infrastructure Technician	Networks and Services"	Indefinite term working contract (in the range 998.50-1153.44 euro/month)"	13-Apr-21
+https://www.it.pt/Positions/PostDoc/564	Senior Researcher	Usage of 5G into different vertical industries	"Indefinite term working contract (2134.73 euro/month)"	13-Apr-21 
 
-https://www.it.pt/Positions/PostDoc/566	Research position for Post-Doctoral Researcher	Network optimization, and heterogeneous networking Research Grant	1628 euro/month, 6 months)	31-Mar  
+https://www.it.pt/Positions/OtherResearchPosition/7285	Infrastructure Engineer	Cloud-based network mechanisms associated to evolutions of 5G networks	Cloud-based network mechanisms associated to evolutions of 5G networks	13-Apr-21
+
+https://www.it.pt/Positions/OtherResearchPosition/7284	Infrastructure Technician	Networks and Services	Indefinite term working contract (in the range 998.50-1153.44 euro/month)	13-Apr-21
+
+https://www.it.pt/Positions/PostDoc/566	Research position for Post-Doctoral Researcher	Network optimization, and heterogeneous networking Research Grant	1628 euro/month, 6 months)	31-Mar-21  
 
 https://www.it.pt/Positions/OtherResearchPosition/7288	Research Grant (“Bolsa de Investigação para Mestre”)	Fundamental tradeoffs for bringing intelligence into 6G networks	Research Grant  (1250 euro/month, 12 months)	31-Mar
 
-https://www.it.pt/Positions/OtherResearchPosition/7289	Research Grant (para Mestre)	Development of software and system building over cloud tools	Research Grant (1250 euro/month, 12 months)	31-Mar
+https://www.it.pt/Positions/OtherResearchPosition/7289	Research Grant (para Mestre)	Development of software and system building over cloud tools	Research Grant (1250 euro/month, 12 months)	31-Mar-21
 
-https://www.it.pt/Positions/PostDoc/565	PostDoc Researcher	"Security applied to systems, communications, services and applications"	Research Grant (1646.00 euro/month, 12 months)"	31-Mar
+https://www.it.pt/Positions/PostDoc/565	PostDoc Researcher	"Security applied to systems, communications, services and applications"	Research Grant (1646.00 euro/month, 12 months)"	31-Mar-21
 
 https://www.it.pt/Positions/OtherResearchPosition/7274 	Scholarship BIL (Bolsa Licenciado)	Networks and Services	Research Grant (805.98 euro/month, 6 months)	29-Mar-21
 
