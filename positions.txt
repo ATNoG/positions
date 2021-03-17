@@ -17,4 +17,3 @@ https://www.it.pt/Positions/OtherResearchPosition/7230	Laboratory and infrastruc
 https://www.it.pt/Positions/OtherResearchPosition/7229	Infrastructure Engineer	"Networking, datacentre"	"Working contract, 1618,26 euro/month (14 months)"	11-Feb-21
 				
 https://www.it.pt/Positions/PostDoc/554	Senior Researcher	Learning Transfer and Federated Machine Learning for next generation networks	"Working Contract, 2,134.7 euro/month (14 months)"	11-Feb-21
-				
